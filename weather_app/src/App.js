@@ -31,16 +31,6 @@ function App() {
   }, [lat,long])
 
 
-
-function getWeather(lat, long) {
-
-}
-
-
-
-
-
-
   
   return(   
 <div className="App">
