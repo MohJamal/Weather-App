@@ -1,0 +1,10 @@
+https://www.freecodecamp.org/news/learn-react-by-building-a-weather-app/?fbclid=IwAR3jmMlm8rH7Dc-ESzHNhKgLhTxnj2TNU3DVTzXwA9Bld16SKsRkpzoltjw
+
+Api Website: https://home.openweathermap.org
+
+
+npm Packages:
+
+1. npm install semantic-ui-react semantic-ui-css
+
+2. npm install moment --save
